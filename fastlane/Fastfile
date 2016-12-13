@@ -1,0 +1,3 @@
+lane :dd do
+crashlytics(api_token: "DEMO1")
+end
